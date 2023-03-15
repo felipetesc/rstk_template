@@ -1,0 +1,12 @@
+[package]
+name = "rstk_template"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# tk = { path = "../tcltk/tk", version = "0.1.0" }
+# tcl = { path = "../tcltk/tcl", version = "0.1.0", default-features = false }
+# tcl_derive = { path = "../tcltk/tcl_derive", version = "0.1.0" }
+tk = "0.1.0"
